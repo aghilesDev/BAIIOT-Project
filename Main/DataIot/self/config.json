@@ -1,0 +1,14 @@
+{
+    "certificat_path":"DataIot/self/Iot.pem",
+    "certificat_key_path":"DataIot/self/IotKey.pem",
+    "certificat_storage":"DataIot/Certificats",
+    "bck_publicKey":"0xF6B99D37b61624CCb8d33d06ee2b6F6D2Bbb5720",
+    "bck_keyContract":"0x058eEf27243B26aAa247862daAB4cfc8f0EC34e9",
+    "bck_managementKeyContract":"0xA371D157fB34b21F98E48407d2f8D6DC6E0e43a9",
+    "bck_privateKey_path":"DataIot/self/UTC--2019-05-12T15-48-37.218149640Z--f6b99d37b61624ccb8d33d06ee2b6f6d2bbb5720",
+    "bck_password":"pswd6",
+    "secret_key":"QF2NOOxjAmkLjuyLqksN6Mpr27KOU36i66gmTBM=",
+    "type":"0",
+    "bck_node_address":"192.168.1.222:8545",
+    "gateway_address":"192.168.1.222:5151"
+}

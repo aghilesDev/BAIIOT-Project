@@ -1,0 +1,11 @@
+{
+    "certificat_path":"DataServer/self/server.pem",
+    "certificat_key_path":"DataServer/self/serverKey.pem",
+    "certificat_storage":"DataServer/Certificats",
+    "bck_publicKey":"0xBd14C3C039Caf8475D2C8329A7e73B4484256EBB",
+    "bck_keyContract":"0x2EcF49455f02ce4fcccFb5C6433c3B3031C64579",
+    "bck_privateKey_path":"DataServer/self/UTC--2019-05-07T14-16-18.048558424Z--bd14c3c039caf8475d2c8329a7e73b4484256ebb",
+    "bck_password":"pswd78",
+    "secret_key":"yzQV9VdNlXhyAJqLTx0CgOiETtrlWEw07U1ql7s=",
+    "type":"2"
+}

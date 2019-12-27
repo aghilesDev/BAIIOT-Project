@@ -1,0 +1,11 @@
+{
+    "certificat_path":"DataClient/self/client.pem",
+    "certificat_key_path":"DataClient/self/clientKey.pem",
+    "certificat_storage":"DataClient/Certificats",
+    "bck_publicKey":"0x89bfcE41F3C6112c81FE7b6B4395fFA36ccD4464",
+    "bck_keyContract":"0x2d8E88C9F2329766820E7ccBD3458401786204cc",
+    "bck_privateKey_path":"DataClient/self/UTC--2019-05-07T13-55-05.787128233Z--89bfce41f3c6112c81fe7b6b4395ffa36ccd4464",
+    "bck_password":"pswd5",
+    "secret_key":"QF2NOOxjAmkLjuyLqksN6Mpr27KOU36i66gmTBM=",
+    "type":"1"
+}
